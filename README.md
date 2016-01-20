@@ -31,6 +31,7 @@ But some ideas:
  - [Benjamin "hezus" Udink ten Cate](https://github.com/hezus)
  - [Wouter "foxycoder" de Vos](https://github.com/foxycoder)
  - [Rayta "raytalks" van Rijswijk](https://github.com/raytalks)
+ - [Tonći "Tuxified" Galić](https://github.com/tuxified) 
  
 We need more people to join. Wanna join? Contribute, and add your name to the list!
 
