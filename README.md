@@ -35,6 +35,13 @@ But some ideas:
  
 We need more people to join. Wanna join? Contribute, and add your name to the list!
 
+Resources
+=========
+
+We have some experience, we may want to share thoughts about how to organize the conference
+
+ - http://www.quirksmode.org/coh/
+
 Contributing
 ============
 
