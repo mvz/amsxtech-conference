@@ -34,6 +34,7 @@ But some ideas:
  - [Tonći "Tuxified" Galić](https://github.com/tuxified) 
  - [Justin "juice10" Halsall](https://github.com/juice10)
  - [Timon "timonv" Vonk](https://github.com/timonv)
+ - [Padraig "paddymckee" McKee](https://github.com/paddymckee)
  - Anna Liebermann
  
 We need more people to join. Wanna join? Contribute, and add your name to the list!
