@@ -36,6 +36,7 @@ But some ideas:
  - [Timon "timonv" Vonk](https://github.com/timonv)
  - [Padraig "paddymckee" McKee](https://github.com/paddymckee)
  - Anna Liebermann
+ - [Catherina "cathko" Kowsoleea](https://github.com/cathko)
  
 We need more people to join. Wanna join? Contribute, and add your name to the list!
 
