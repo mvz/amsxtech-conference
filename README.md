@@ -3,6 +3,7 @@ AMSxTech Conference
 
 - [Mission, (why, how, what)](#mission)
 - [Current Supporters](#current-supporters)
+- [Planning Events](#planning-events)
 - [Resources](#resources)
 - [Contributing](#contributing)
 
@@ -54,6 +55,11 @@ Current supporters
  - [Nina "salamalala" Regli](https://github.com/salamalala)
  
 We need more people to join. Wanna join? Contribute, and add your name to the list!
+
+Planning Events
+===============
+
+ - **BEERS & BANTER • 26 januari • 19:00 • Café Gollem Amstelstraat 34** (We consider this a kickoff event)
 
 Resources
 =========
