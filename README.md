@@ -1,7 +1,11 @@
 AMSxTech Conference
 ===================
 
-## Why
+## Community goal
+
+AMSxTech has always been about crossover between professions in the technology world (design, development, pm, business, marketing, etc) and allowing for people to exchange knowledge and create connections they otherwise wouldn't be able to inside their own 'silo'.
+
+## Why a new conference
 
 Amsterdam has moved up the standup ladder over the past couple of years now to become the #2 spot in Europe to hang out and have a startup. However the community has not grown in a way that makes sense for a safe haven for startups and tech companies. Thus we think something should happen!
 
@@ -20,6 +24,7 @@ We bring people together for a one day conference in Amsterdam. Technology agnos
 To Be Determined...
 
 But some ideas:
+ - A one or two day conference format
  - Real talks about ideas, passions and technology. No Commercial talks!
  - International speaker from different technologies
  - Workshops
