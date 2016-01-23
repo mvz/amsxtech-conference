@@ -52,6 +52,10 @@ Resources
 We have some experience, we may want to share thoughts about how to organize the conference
 
  - http://www.quirksmode.org/coh/
+ 
+## Communication
+
+jucie10 created a channel for us in the AMSxTech slack group. Please [join](http://amsxtech.com/) to keep up to date with the details. Note that you will need an invite for the channel. Ask "paddy", "justin" or "yopefonic" to help you out.
 
 Contributing
 ============
