@@ -1,6 +1,14 @@
 AMSxTech Conference
 ===================
 
+- [Mission, (why, how, what)](#mission)
+- [Current Supporters](#current-supporters)
+- [Resources](#resources)
+- [Contributing](#contributing)
+
+Mission
+=======
+
 ## Community goal
 
 AMSxTech has always been about crossover between professions in the technology world (design, development, pm, business, marketing, etc) and allowing for people to exchange knowledge and create connections they otherwise wouldn't be able to inside their own 'silo'.
@@ -30,7 +38,8 @@ But some ideas:
  - Workshops
  - Drinks!
 
-## Current supporters:
+Current supporters
+==================
 
  - [Joost "yopefonic" Elfering](https://github.com/yopefonic)
  - [Benjamin "hezus" Udink ten Cate](https://github.com/hezus)
