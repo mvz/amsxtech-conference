@@ -18,7 +18,7 @@ AMSxTech has always been about crossover between professions in the technology w
 
 Amsterdam has moved up the standup ladder over the past couple of years now to become the #2 spot in Europe to hang out and have a startup. However the community has not grown in a way that makes sense for a safe haven for startups and tech companies. Thus we think something should happen!
 
-We believe that a community is built on bringen people together with the same drive and different backgrounds. We believe that these different people talking about creating technological products can make for new interesting ideas and connections within the community and move it to the next level.
+We believe that a community is built on bringing people together with the same drive and different backgrounds. We believe that these different people talking about creating technological products can make for new interesting ideas and connections within the community and move it to the next level.
 
 ## How
 
@@ -35,7 +35,7 @@ To Be Determined...
 But some ideas:
  - A one or two day conference format
  - Real talks about ideas, passions and technology. No Commercial talks!
- - International speaker from different technologies
+ - International speaker from different backgrounds and professions
  - Workshops
  - Drinks!
 
@@ -70,7 +70,7 @@ We have some experience, we may want to share thoughts about how to organize the
  
 ## Communication
 
-jucie10 created a channel for us in the AMSxTech slack group. Please [join](http://amsxtech.com/) to keep up to date with the details. Note that you will need an invite for the channel. Ask "paddy", "justin" or "yopefonic" to help you out.
+Juice10 & Paddy created a channel for us in the AMSxTech slack group. Please [join](http://amsxtech.com/) to keep up to date with the details. Note that you will need an invite for the channel. Ask "paddy", "justin" or "yopefonic" to help you out.
 
 Contributing
 ============
