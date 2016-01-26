@@ -53,6 +53,7 @@ Current supporters
  - Anna Liebermann
  - [Catherina "cathko" Kowsoleea](https://github.com/cathko)
  - [Nina "salamalala" Regli](https://github.com/salamalala)
+ - [Matijs "mvz" van Zuijlen](https://github.com/mvz)
  
 We need more people to join. Wanna join? Contribute, and add your name to the list!
 
